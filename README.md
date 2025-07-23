@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya Bansode
 
-<!--
-**aditya-bansode/aditya-bansode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSBS Student at TKIET Warnanagar  
+💡 Passionate about Web Development, Python, and AI  
+🎮 Gamer & Creator of BGMI Fan Page  
+📈 Learning GitHub, Projects, and Problem Solving
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- 💻 HTML, CSS
+- 🐍 Python
+- ⚙️ Git & GitHub
+- 📚 C Language, Business Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [BGMI Fan Page](https://aditya-bansode.github.io/bgmi-fan-page/) 🎮
+- 
+
+## 📫 Connect with Me
+- ✉️ aditya.bansode@email.com 
+- 🌐 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/aditya-bansode0)
+
+---
+
+“Code with curiosity. Build with passion.”
